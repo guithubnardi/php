@@ -1,6 +1,6 @@
 <?php
 
-	echo "mudei tudo aki "
-	echo"Quale carai";
+	echo "OLÁ MARILENE ";
+	echo"TAINHA, VINHO E MUITO SEXO";
 
 ?>
